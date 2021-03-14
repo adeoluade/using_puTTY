@@ -25,5 +25,3 @@ PuTTY generally has two purposes.
 ->SSH generates two types of key combinations i.Public key which is used to access the terminal by authorised people, And Private key which should not be shared with anyone ,Private key is encrypted into the particular server of the user which can only be opened with a public key
 
 -> When your using a particular system to access a server you can just point to the public key and you can login to the server any time without entering any password or user nsme
-
-->One place where i particularly found the use of PuTTy is “Digital Ocean hosting services”
