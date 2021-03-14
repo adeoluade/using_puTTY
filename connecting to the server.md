@@ -1,5 +1,9 @@
 # Running PuTTY and connecting to a server (WINDOWS)
 
+Prerequisite 
+Install ssh on your virtual desktop by running the code below
+`sudo apt install ssh`
+
 Step 1
 > Open the software from the start menu or by double clicking the icon in the taskar
 
