@@ -14,4 +14,4 @@ Step 4
 
 You are now connected to the server 🎉
 
-To exit, you can type in 'exit' in the command line.
+To exit, you can type in `exit` in the command line.
