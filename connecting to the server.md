@@ -1,6 +1,6 @@
 # Running PuTTY and connecting to a server (WINDOWS)
 
-##Prerequisite
+## Prerequisite
 
 Install ssh on your virtual desktop by running the code below
 
